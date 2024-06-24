@@ -5,6 +5,18 @@
         "Age": "25",
         "Role": "Batting Allounder",
     },
+{
+        "id": 2323389423,
+        "name": "Karan Gupta",
+        "Age": "15",
+        "Role": "Batting, wicket keeper",
+    },
+    {
+        "id": 1010,
+        "name": "Kusal Perera",
+        "Age": "32",
+        "Role": "Batting Allounder",
+    },
 
 
     {
@@ -20,15 +32,13 @@
         "Age": "34",
         "Role": "Batsman",
     },
-
-
-    {
-        "id": 4,
-        "Name": "KL Rahul",
-        "Age": "34",
-        "Role": "Batsman",
-    },
-
+{
+        "id": 94,
+        "Name": "Avesh Khan",
+        "Age": "25",
+        "Role": "Fast Bowler",
+    }, 
+	
 
     {
         "id": 5,
@@ -98,36 +108,6 @@
         "Role": "Batsman",
     },
 
-
-    {
-        "id": 15,
-        "name": "M.S.Dhoni",
-        "Age": "35",
-        "Role": "Allounder",
-    },
-
-
-    {
-        "id": 16,
-        "Name": "Hardik Pandya",
-        "Age": "35",
-        "Role": "Batsman",
-    },
-
-
-
-    {
-        "id": 17,
-        "Name": "Sruyakumar Yadav",
-        "Age": "30",
-        "Role": "Batsman",
-    },
-    {
-        "id": 18,
-        "Name": "Sruyakumar Yadav",
-        "Age": "30",
-        "Role": "Batsman",
-    },
     {
         "id": 19,
         "Name": "Charith Asalanka",
@@ -142,13 +122,7 @@
         "Age": "35",
         "Role": "Batsman",
     },
-    {
-        "id": 21,
-        "name": "Surya Yadav",
-        "Age": "35",
-        "Role": "Batting ",
 
-    },
     {
         "id": 22,
         "name": "Umesh Yadav ",
@@ -184,16 +158,9 @@
     },
     {
         "id": 27,
-        "Name": "Kunal Pandya ",
+        "Name": "Krunal Pandya ",
         "Age": "31",
-        "Role": " Wicketkeeper, Batsman",
-    },
-
-    {
-        "id": 28,
-        "Name": "Navdeep Saini ",
-        "Age": "41",
-        "Role": " Wicketkeeper, Batsman",
+        "Role": "Batting Allrounder",
     },
 
     {
@@ -212,8 +179,8 @@
     {
         "id": 31,
         "name": "Navdeep Saini",
-        "Age": "35",
-        "Role": "Batting Allounder",
+        "Age": "29",
+        "Role": "Bowler",
     },
     {
         "id": 32,
@@ -237,13 +204,13 @@
     },
     {
         "id": 35,
-        "name": "decock",
-        "Age": "36",
-        "Role": "batsman",
+        "name": "Quinton Decock",
+        "Age": "29",
+        "Role": "Wicketkeeper Batsman",
     },
     {
         "id": 36,
-        "name": "deepak hooda",
+        "name": "Deepak hooda",
         "Age": "35",
         "Role": "allrounder",
     },
@@ -258,6 +225,12 @@
         "name": "KL Rahul",
         "Age": "30",
         "Role": "Right-handed",
+    },	
+{
+        "id": 125,
+        "name": "Aasif Sheikh",
+        "Age": "21",
+        "Role": "Wicketkeeper",
     },
     {
         "id": 39,
@@ -270,7 +243,7 @@
         "id": 40,
         "name": "KL Rahul",
         "Age": "30",
-        "Role": "Right-handed",
+        "Role": "Right-handed Batter",
     },
     {
         "id": 41,
@@ -303,8 +276,8 @@
 
     {
         "id": 44,
-        "name": "warner",
-        "Age": "32",
+        "name": "David Warner",
+        "Age": "35",
         "Role": "Batsman",
     },
     {
@@ -321,19 +294,6 @@
         "Age": "23",
         "Role": "Bowler",
     },
-    {
-
-        "id": 47,
-        "name": "Shreyas Iyer",
-        "Age": "27",
-        "Role": "Batsman",
-    },
-    {
-        "id": 48,
-        "name": "Arshadee singh",
-        "Age": "23",
-        "Role": "Bowling",
-    },
 
     {
         "id": 49,
@@ -341,10 +301,18 @@
         "Age": "23",
         "Role": "Bowling",
     },
+
     {
         "id": 50,
         "name": "Sam Curran",
         "Age": "24",
+        "Role": "Allrounder",
+    },
+	
+{
+        "id": 123,
+        "name": "Moeen Ali",
+        "Age": "35",
         "Role": "Allrounder",
     },
 
@@ -361,18 +329,12 @@
         "Age": "23",
         "Role": "Batsman",
     },
+	
     {
-        "id": 53,
-        "name": "AB de Villiers",
+        "id": 124,
+        "name": "Manpreet Gony",
         "Age": "38",
-        "Role": "Batsman",
-    },
-
-    {
-        "id": 54,
-        "name": "MS Dhoni",
-        "Age": "41",
-        "Role": "All Rounder",
+        "Role": "Fast Bowler",
     },
 
     {
@@ -396,12 +358,7 @@
         "Age": "27",
         "Role": "Batsman",
     },
-    {
-        "id": 58,
-        "Name": "de cock",
-        "Age": "27",
-        "Role": "Batsman",
-    },
+
     {
 
         "id": 59,
@@ -461,13 +418,6 @@
         "Role": "Batsman",
 
     },
-    {
-        "id": 67,
-        "Name": "Umran Malik",
-        "Age": "22",
-        "Role": "Fast Bowler",
-
-    },
 
     {
         "id": 68,
@@ -478,7 +428,7 @@
     },
     {
         "id": 69,
-        "Name": "Zampa",
+        "Name": "Adam Zampa",
         "Age": "31",
         "Role": "off-Spinner",
 
@@ -490,6 +440,13 @@
         "Role": "Right Handed Batsman",
 
     },
+	 {
+        "id": 237,
+        "Name": "Naman Ojha",
+        "Age": "39",
+        "Role": "WK- Batsman",
+
+    },
     {
         "id": 71,
         "Name": "Sourav Ganguly",
@@ -499,18 +456,10 @@
     },
 
     {
-        "id": 71,
-        "Name": "Rohit Sharma",
-        "Age": "35",
-        "Role": "Right Handed Batsman",
-
-    },
-
-    {
         "id": 73,
         "Name": "Mohammed Shami",
         "Age": "32",
-        "Role": "Bowler",
+        "Role": "Fast Bowler",
 
     },
 
@@ -543,10 +492,14 @@
         "Role":"Right Handed Batsman",
 
     },
-    
+	{
+        "id":240,
+        "Name":"Mohammad Kaif",
+        "Age":"41",
+        "Role":"Right Handed Batsman",
 
-
-
+    },
+  
     {
         "id": 72,
         "name": "Axar Patel",
@@ -561,64 +514,73 @@
         "Role": "Right Handed Batsman",
 
     },
+	{
+        "id": 239,
+        "Name": "Robin Uthappa",
+        "Age": "36",
+        "Role": "Right Handed Batsman",
+
+    },
     {
         "id": 13,
         "Name": "Harshal Patel",
         "Age": "31",
         "Role": "Right Handed Batsman",
     },
-    
-	{
-	 	 "id":73,
-		 "Name":"Javagal Srinath",
-		 "Age":"53",
-		 "Role":"Right Handed Batsman",
-	 },
-	
-	 {
-	 	 "id":74,
-		 "Name":"Sachin Tendulkar",
-		 "Age":"49",
-		 "Role":"Right Handed Batsman",
+
+{
+	"id":238,
+        "Name":"Manpreet Gony",
+	"Age":"38",
+	"Role":"Right Arm Medium",
+
+ },
+
+ {
+
+	"id":74,
+	"Name":"Bishan Singh Bedi",
+	"Age":"76",
+        "Role":"Left-Arm Bowler",
 
 	 },
+     {
+        "id":75,
+       "Name":"Venkatesh Prasad",
+       "Age":"53",
+       "Role":"Right-Arm Bowler",
 
-	 {
-	 	 "id":75,
-		 "Name":"Venkatesh Prasad",
-		 "Age":"53",
-		 "Role":"Right Handed Batsman",
+   },
 
-	 },
-
-	 {
-	     "id":76,
-		 "Name":"Venkatesh Prasad",
-		 "Age":"53",
-		 "Role":"Right Handed Batsman",
-	 },
 	{
         "id":77,
         "Name":"Dilip Vengasarkar",
         "Age":"66",
         "Role":"Right Handed Batsman",
 },
-	
-  {
-        "id":11,
-       "Name":"mohammad kaif",
-       "Age":"41",
-       "Role":"Right Handed Batsman",
+
+   {
+        "id":78,
+        "Name":"Bhuvneshwar Kumar",
+        "Age":"32",
+        "Role":"Right-arm medium bowler",
+    },
+
+    {
+       "id":99,
+       "Name":"Chris Gayle",
+       "Age":"43",
+       "Role":"Batsman",
     },
 
 
-   {
-        "id":75,
-       "Name":"Krishnamachari Srikkanth",
-       "Age":"62",
+    {
+        "id":7,
+       "Name":"Shubman Gill",
+       "Age":"23",
        "Role":"Right Handed Batsman",
+    },
 
-   },
 
    {
     "id":76,
@@ -627,28 +589,36 @@
    "Role":"Right Handed Batsman",
 
 },
+
+    {
+    "id":77,
+   "Name":"Mohammed Shami",
+   "Age":"32",
+   "Role":"Right Handed Bowler",
+
+},
   
+        {
+         "id":72,
+         "Name":"Shivam Mavi",
+         "Age":"25",
+         "Role":"Right Arm Bowler",
 
-
- {
-        "id": 76,
-        "Name": "Rahul Dravid",
-        "Age": "49",
-        "Role": "Batsman",
-  },
-
-  {
-        "id": 12,
-        "name": "Ab deviliors",
-        "Age": "35",
-        "Role": "Batsman",
-    },
+     },
  
    {
         "id": 78,
         "Name": "Manoj Tiwary",
         "Age": "36",
         "Role": "Right-Handed Batsman",
+    },
+
+ 
+   {
+        "id": 153,
+        "Name": "prakarsh tiwari",
+        "Age": "38",
+        "Role": "bowller",
     },
     {
         "id": 19,
@@ -657,25 +627,20 @@
         "Role": "Bowler",
     },
   
-   {
-        "id": 80,
-        "Name": "Smriti Mandhana",
-        "Age": "26",
-        "Role": "Left-Handed Batsman",
+ {
+        "id": 12,
+        "name": "Rajat Patil",
+        "Age": "19",
+        "Role": "Batsman",
     },
-    {
-        "id": 81,
-        "Name": "Jemimah Rodrigues",
-        "Age": "22",
-        "Role": "Right-Handed Batsman",
-	    
-    },
+
     {
         "id": 82,
         "Name": "Harmanpreet Kaur",
         "Age": "33",
         "Role": "Right-Handed Batsman",
     },
+	
    {
         "id": 83,
         "Name": "Renuka Singh",
@@ -690,7 +655,7 @@
     },
 	 {
         "id": 85,
-        "Name": "Mitahli Raj",
+        "Name": "Mithali Raj",
         "Age": "39",
         "Role": "Right-Handed Batsman",
     },
@@ -730,6 +695,12 @@
         "Age": "23",
         "Role": "All rounder",
     },
+    {
+        "id": 92,
+        "Name": "Umesh Yadav",
+        "Age": "34",
+        "Role": "Right-Arm Fast Bowler",
+    },
 	  {
         "id": 92,
         "Name": "Harleen Deol",
@@ -763,4 +734,1637 @@
         "Role": "A right-handed batsman",
     },
 
+	{
+        "id": 94,
+        "Name": "Adam Gilchrist",
+        "Age": "56",
+        "Role": "right-handed batsman",
+
+    },
+
+	{
+        "id": 95,
+        "name": "Sir Don Bradman",
+        "Age": "92",
+        "Role": "Attacking righthander",
+    },
+	{
+        "id": 96,
+        "name": "Viv Richards",
+        "Age": "70",
+        "Role": "Batsman",
+    },
+	{
+        "id": 98,
+        "name": "Shikhar Dhawan",
+        "Age": "30",
+        "Role": "Batsman",
+    },
+
+	{
+        "id": 96,
+        "name": "Jean Paul Duminy",
+        "Age": "38",
+        "Role": "Right Arm Offbreak All Rounder",
+    },
+	
+
+
+	{
+        "id": 96,
+        "name": "Mitchell Johnson",
+        "Age": "40",
+        "Role": "Bowler",
+    },
+
+	{
+        "id": 96,
+        "name": "Kamlesh Nagarkoti",
+        "Age": "22",
+        "Role": "Right-Arm Fast Bowler",
+    },
+
+	
+	{
+        "id": 96,
+        "name": "Brendon McCullum",
+        "Age": "41",
+        "Role": "Batsman",
+    },
+
+    {
+        "id": 96,
+        "name": "Steve Miller",
+        "Age": "35",
+        "Role": "wicket kepper Batsmen",   
+    },
+
+	{
+        "id": 97,
+        "name": "Rajat Patidar",
+        "Age": "29",
+        "Role": "Batsman",
+    },
+	{
+        "id": 98,
+        "name": "Yashasvi Jaiswal",
+        "Age": "20",
+	"Role": "Left-Handed Batsman",	
+    },
+	{
+        "id": 99,
+        "name": "Mustafizur Rahman",
+        "Age": "27",
+	"Role": "Left-arm fast-medium bowler",	
+    },
+	{
+        "id": 100,
+        "name": "Kapil Dev",
+        "Age": "63",
+	"Role": "Fast-medium bowler",	
+    },
+	{
+        "id": 101,
+        "name": "Manish Pandey",
+        "Age": "33",
+	"Role": "Right-handed batsman",	
+    },
+	{
+        "id": 102,
+        "name": "Ravi Bishnoi",
+        "Age": "22",
+	"Role": "Bowler",	
+    },
+
+	{
+        "id": 98,
+        "name": "Tony Munyonga",
+        "Age": "23",
+        "Role": "All Rounder",
+    },
+
+         {
+        "id": 98,
+        "name": "Jacques Kallis",
+        "Age": "29",
+        "Role": "Right handed batsman",
+    },	
+	{
+        "id": 99,
+        "name": "Mujeeb Ur Rahman",
+        "Age": "21",
+        "Role": "left handed batsman",
+
+    },
+    {
+        "id": 100,
+        "Name": "Sanju Samson",
+        "Age": "27",
+        "Role": "A right-handed batsman",
+    },
+    {
+        "id": 101,
+        "Name": "Mohammad Azharuddin",
+        "Age": "59",
+        "Role": "All  rounder",
+    },
+
+
+
+    {
+        "id": 101,
+        "Name": "Ishant Sharma",
+        "Age": "37",
+        "Role": "Bowler",
+    },	
+
+
+	{
+        "id": 101,
+        "name": "Irfan Ali Karim",
+        "Age": "30",
+        "Role": "left handed wicket keeper batsman",
+
+    },
+	{
+        "id": 102,
+        "name": "Ajit Agarkar",
+        "Age": "44",
+        "Role": "Left Hand Medium Fast Bowler",
+
+    },
+	{
+        "id": 103,
+        "name": "Heinrich Klaasen",
+        "Age": "31",
+        "Role": "Right Handed Wicket Keeper Batsman",
+
+    },
+    
+    {
+        "name": "ross taylor",
+        "Age": "38",
+        "Role": "right hand batsman",
+
+	},
+	{
+        "id": 103,
+        "name": "Sunil narain",
+        "Age": "34",
+        "Role": "Bowler",
+
+    },
+	
+	{
+        "id": 104,
+        "name": "Rahul tripathi",
+        "Age": "24",
+        "Role": "Batsman",
+
+    },
+	
+	{
+        "id": 105,
+        "name": "Ashok Dinda",
+        "Age": "34",
+        "Role": "Bowler",
+
+
+    },
+	{
+        "id": 107,
+        "name": "kevin-o-brein",
+        "Age": "34",
+        "Role": "Batsman",
+
+
+    },
+
+	},
+	{
+        "id": 106,
+        "name": "Imran Tahir",
+        "Age": "38",
+        "Role": "spin Bowler",
+
+    },
+    {
+        "id": 110,
+        "name": "jhulan goswami",
+        "Age": "39",
+        "Role": "Bowler",
+
+
+    },
+
+     {
+        "id": 111,
+        "name": "richa ghosh",
+        "Age": "19",
+        "Role": "Batsman",
+},
+	
+	{
+        "id": 112,
+        "name": "pooja vastrakar",
+        "Age": "23",
+  },
+	
+	{
+        "id": 114,
+        "name": "morne morkel",
+        "Age": "29",
+        "Role": "Bowler",
+    },
+
+	{		
+        "id": 115,
+        "name": "ellyse perry",
+        "Age": "29",
+	"Role": " Fast Bowler",
+  },
+    
+    {
+        "id": 116,
+        "name": "renuka thakur",
+        "Age": "25",
+
+        "Role": "Bowler",
+    },
+     {
+        "id": 117,
+        "name": "dawid malan",
+        "Age": "30",
+	      "Role": "Batsman",
+  },
+
+    	{
+        "id": 117,
+        "name": "Nitish Rana",
+        "Age": "24",
+	      "Role": "Batsman",	
+  },
+
+    {
+
+        "id": 121,
+        "name": "Mark Burgess",
+        "Age": "78",
+        "role":"bowler"
+},
+{
+        "id": 122,
+        "name": "Peter Webb",
+        "Age": "65",
+        "Role": "Batsman",
+},
+	{
+        "id": 119,
+        "name": "Yash Dhull",
+        "Age": "19",
+        "Role": "Batsman",
+},
+
+
+    {
+        "id": 123,
+        "name": "Hershelle gibbs",
+        "Age": "43",
+        "Role": "Batsman",
+},
+
+{
+        "id": 119,
+        "name": "Hamilton Masakadza",
+        "Age": "39",
+        "Role": "All-rounder",
+},
+{
+        "id": 120,
+        "name": "Elton Chigumbura",
+        "Age": "36",
+        "Role": "Bowler",
+},
+
+  {
+        "id": 120,
+        "name": "Pravin Tambe",
+        "Age": "35",
+        "Role": "Bowler",
+},
+
+
+	{
+        "id": 119,
+        "name": "Akshat Agarwal",
+        "Age": "19",
+        "Role": "Batsman",
+},
+
+
+ {
+        "id": 119,
+        "name": "Herschelle Gibbs",
+        "Age": "48",
+        "Role": "Right Hand Batsman",
+},
+
+{
+        "id": 119,
+        "name": "Lasith Malinga",
+        "Age": "39",
+        "Role": "Bowler"
+},
+{
+        "id": 120,
+        "name": "Soum srivastav",
+        "Age": "21",
+        "Role": "Batsman"
+},
+
+ {
+        "id": 121,
+        "name": "sachin baby",
+        "Age": "25",
+        "Role": "Batsman"
+},
+
+{
+        "id": 125,
+        "name": "Martin Guptill",
+        "Age": "30",
+        "Role": "Batsman"
+},
+
+
+{
+        "id": 120,
+        "name": "Dayalan Hemalatha",
+        "Age": "28",
+        "Role": "All Rounder"
+},
+	   {
+        "id": 127,
+        "name": "Chris Nevin",
+        "Age": "22",
+        "Role": "Wicket keeper"
+},
+{
+        "id": 128,
+        "name": "Glen Sulzberger",
+        "Age": "22",
+},
+ {
+        "id": 133,
+        "name": "j k pal",
+        "Age": "30",
+        "Role": "Bowler"
+},
+
+	   {
+        "id": 127,
+        "name": "Kane Williamson",
+        "Age": "32",
+        "Role": "Batsman"
+},
+
+ {
+        "id": 120,
+        "name": "Amit Mishra",
+        "Age": "39",
+        "Role": "Leg Breaker",
+},
+
+   {
+        "id": 133,
+        "name": "rom malik",
+        "Age": "25",
+        "Role": "batsman"
+},
+{
+        "id": 149,
+        "name": "arjun seth",
+        "Age": "29",
+        "Role": "batsman"
+},
+
+
+	   {
+        "id": 123,
+        "name": "raj bawa",
+        "Age": "18",
+        "Role": "All -rounder"
+},
+
+{
+        "id": 136,
+        "name": "Lasith patham",
+        "Age": "59",
+        "Role": "Bowler"
+},
+
+
+	   {
+        "id": 133,
+        "name": "Lou Vincent",
+        "Age": "23",
+        "Role": "Batsman"
+},
+
+	   {
+        "id": 126,
+        "name": "Glenn Phillips",
+        "Age": "25",
+        "Role": "Batsman"
+},
+{
+        "id": 119,
+        "name": "ajeet kumar",
+        "Age": "44",
+        "Role": "all rounder"
+  },
+
+	   {
+        "id": 132,
+        "name": "Jacob Oram",
+        "Age": "39",
+        "Role": "All rounder"
+},
+	   {
+        "id": 129,
+        "name": "Daryl Tuffey",
+        "Age": "22",
+        },
+{
+        "id": 139,
+        "name": "manoj dubey",
+        "Age": "51",
+        "Role": "Bowler"
+},
+	   {
+        "id": 131,
+        "name": "Chris Martin",
+        "Age": "23",
+},
+{
+        "id": 129,
+        "name": "j p panday",
+        "Age": "19",
+        "Role": "Bowler"
+},
+{
+        "id": 140,
+        "name": "arvind pathhak",
+        "Age": "52",
+        "Role": "Bowler"
+},
+{
+        "id": 137,
+        "name": "Lokesh malik",
+        "Age": "31",
+        "Role": "Bowler"
+},
+
+ {
+        "id": 120,
+        "name": "Akash Chopra",
+        "Age": "35",
+        "Role": "Batsman",
+},
+{
+        "id": 121,
+        "name": "Kumar Sangakara",
+        "Age": "35",
+        "Role": "Batsman",
+},
+
+	   {
+        "id": 129,
+        "name": "Brooke Walker",
+        "Age": "22",
+        "Role": "Batsman"
+},
+{
+        "id": 130,
+        "name": "James Franklin",
+        "Age": "23",
+        "Role": "All rounder"
+        },
+{
+        "id": 149,
+        "name": "Lalit mishra",
+        "Age": "32",
+        "Role": "Batsman"
+},
+{
+        "name": "prakhar kumar singh",
+        "Age": "47",
+        "Role": "Bowler"
+},
+	   {
+        "id": 138,
+        "name": "RaJjesh yadav",
+        "Age": "29",
+        "Role": "Bowler"
+},
+	   {
+        "id": 141,
+        "name": "Lala panday",
+        "Age": "41",
+        "Role": "Bowler"
+
+   },
+   { 
+       "id": 145,
+       "name": "Joe Root",
+       "Age": "41",
+       "Role": "Batsman"
+   },
+   {
+
+        "id": 141,
+        "name": "Rassie van der Dussen",
+        "Age": "29",
+        "Role": "Batsman"
+
+},
+{
+
+        "id": 142,
+        "name": "sandeep seni",
+        "Age": "32",
+        "Role": "Bowler"
+},
+{
+
+        "id": 142,
+        "name": "kuldeep ",
+        "Age": "41",
+        "Role": "all-rounder"},
+    {
+
+        "id": 141,
+        "name": "smith",
+        "Age": "30",
+        "Role": "Batsman"
+
+},
+
+   {
+        "id": 141,
+        "name": "Damien Martyn",
+        "Age": "44",
+        "Role": "Batsman"
+},
+ {
+        "id": 142,
+        "name": "Gaurav Nimbokar",
+        "Age": "20",
+        "Role": "Batting Allounder",
+    },
+
+{
+        "id": 142,
+        "name": "Kapil Dev",
+        "Age": "63",
+        "Role": "Bowler"
+},
+
+{
+        "id": 143,
+        "name": "Sunil Gavaskar",
+        "Age": "73",
+        "Role": "Batsman"
+},
+
+ {
+        "id": 1005,
+        "name": "Abhishek Chourasia",
+        "Age": "25",
+        "Role": "Batting Allounder",
+    },
+  
+  
+{
+        "id": 142,
+        "Name":  "Mahaboob Alam",
+        "Age": "41",
+        "Role": "left hand Batsman",
+    },
+
+{
+        "id": 144, 
+	     "Name": "Mitchell Marsh", 
+       "Age": "30", 
+	     "Role": "All Rounder",
+},
+{
+        "id": 145, 
+	      "Name": "Cameron Green", 
+	      "Age": "23", 
+	      "Role": "All rounder"
+},
+
+
+{
+        "id": 146, 
+	      "Name": "Pat Cummins", 
+	      "Age": "29", 
+	      "Role": "Bowler",
+},
+
+
+{
+        "id": 143,
+        "Name":  "Younis Khan",
+        "Age": "44",
+        "Role": "Batsman",
+},
+    {
+        "id": 143,
+        "Name":  "Bobby Deol",
+        "Age": "41",
+        "Role": "Bowler"
+    },
+
+    {
+        "id": 95,
+        "Name": "Ravindrasinh Anirudhsinh Jadeja",
+        "Age": "33",
+        "Role": "A Left Handed batsman",
+    },
+
+{
+
+        "id": 143,
+        "name": "Ravi Shastri",
+        "Age": "60",
+        "Role": "commentator and former captain ",
+    },
+    {
+        "id": 142,
+        "Name":  "raju pal",
+        "Age": "441",
+        "Role": " Batsman",
+    },
+
+{
+        "id": 242,
+        "Name":  "navdeep Alam",
+        "Age": "413",
+        "Role": "right hand Batsman",
+    },
+
+    {
+        "id": 132,
+        "Name":  "manoj gautam",
+        "Age": "421",
+        "Role": "left hand baller",
+    },
+
+    {
+        "id": 122,
+        "Name":  "nitin patil",
+        "Age": "241",
+        "Role": " Batsman",
+    },
+
+   {
+        "id": 992,
+        "Name":  "waseem ahmed",
+        "Age": "471",
+        "Role": " Batsman",
+    },
+
+  {
+        "id": 155,
+        "Name":  "kalip panday",
+        "Age": "555",
+        "Role": " Batsman",
+    },
+
+    {
+        "id": 709,
+        "Name":  "Danushka Gunathilaka",
+        "Age": "31",
+        "Role": " Left-handed Batsman ",
+
+    },
+    {
+        "id": 143, 
+	      "Name": "Shane Watson",
+	      "Age": "41", 
+	      "Role": "All Rounder",
+	
+},
+{
+        "id": 145,
+        "name": "Navjot sidhu",
+        "Age": "43",
+        "Role": "batsman"
+},
+{
+        "id": 2001,
+        "Name": "Chaminda Vaas",
+        "Age": "34",
+        "Role": "right-arm fast bowler",
+    },
+
+  {
+        "id": 43,
+        "Name": "vikatam iyer",
+        "Age": "34",
+        "Role": "Right-Handed Batsman",
+    },
+
+  {
+        "id": 56,
+        "Name": "Anil Tiwary",
+        "Age": "30",
+        "Role": "left-arm fast bowler",
+    },
+
+    {
+        "id": 201,
+        "Name": "Manoj pandey",
+        "Age": "32",
+        "Role": "right-hand bowler",
+    },
+   
+{
+        "id": 4002,
+        "Name": "riky pointing",
+        "Age": "45",
+        "Role": "right-Handed Batsman",
+    },
+{
+        "id": 4000,
+        "Name": "afridi",
+        "Age": "42",
+        "Role": "left-Handed Batsman",
+    },
+
+    {
+        "Name": "Hashim Amla",
+        "Age": "39",
+        "Role": "right-Handed Batsman",
+    },
+    {
+        "id": 4004,
+        "Name": "rahul dravid",
+        "Age": "39",
+        "Role": "right-Handed Batsman",
+    },
+    {
+        "id": 4005,
+        "Name": "asis tiwari",
+        "Age": "43",
+        "Role": "left-Handed Bbowler",
+    },
+    {
+        "id": 4008,
+        "Name": "unnat kut",
+        "Age": "37",
+        "Role": "right-Handed Batsman",
+    },
+    {
+        "id": 2001,
+        "Name": "Himanshu sharma",
+        "Age": "27",
+        "Role": "left-Handed Batsman",
+    },
+
+    {
+        "id": 302,
+        "Name": "Rashid Khan",
+        "Age": "24",
+        "Role": "Leg Breaker",
+    },
+    {
+        "id": 303,
+        "Name": "Ollie Pope",
+        "Age": "24",
+        "Role": "Wicketkeeper-Batsman",
+    },
+    {
+        "id": 304,
+        "Name": "Tom Banton",
+        "Age": "23",
+        "Role": "Wicketkeeper-Batsman",
+    },
+    {
+        "id": 305,
+        "Name": "Prithvi Shaw",
+        "Age": "22",
+        "Role": "Right Handed Batsman",
+    },
+    {
+        "id": 306,
+        "name": "Smriti Mandhana",
+        "Age": "26",
+        "Role": "Left Handed Batter",
+    },
+   {
+        "id": 307,
+        "name": "Washington Sundar",
+        "Age": "23",
+        "Role": "Batting Allounder",
+    },
+   {
+        "id": 308,
+        "name": "Sarfaraz Khan",
+        "Age": "24",
+        "Role": "Right Handed Batter",
+    },
+   {
+        "id": 309,
+        "name": "Abhishek Sharma",
+        "Age": "22",
+        "Role": "Bowling Allounder",
+    },
+   {
+        "id": 310,
+        "name": "Jemimah Rodrigues",
+        "Age": "22",
+        "Role": "Right Handed Batter",
+    },
+   {
+        "id": 311,
+        "name": "Umran Malik",
+        "Age": "22",
+        "Role": "Right Arm Fast Bowler",
+      },
+      {
+        "id": 312,
+        "name": "Dheeraj Jadhav",
+        "Age": "43",
+        "Role": "Left-handed opening batsman",
+        },
+      {
+        "name": "Sheldon Jackson",
+        "Age": "31",
+        "Role": "Batting Allounder",
+
+    },
+{
+        "id": 312,
+        "name": "Umesh Yadav",
+        "Age": "22",
+        "Role": "Right Arm Fast Bowler",
+    },
+
+{
+        "id": 313,
+        "name": "Vinod Kambli",
+        "Age": "50",
+        "Role": "Left Handed Batsman",
+    },
+
+ {
+        "id": 316,
+        "name": "Mushfiqur Rahim",
+        "Age": "35",
+        "Role": "Right-handed Batter",
+    },
+    {
+        "id": 317,
+        "name": "Tamsin Tilley Beaumont",
+        "Age": "31",
+        "Role": "Right-handed",
+    },
+
+{
+	"id":319,
+	"name": "Ben stokes",
+	"Age": 31,
+	"Role": "All-rounder",
+},
+
+{
+        "id": 321,
+        "Name":  "Devdutt Padikkal",
+        "Age": "22",
+        "Role": "Left Hand Batsman",
+    },
+
+{
+        "id": 322,
+        "Name":  "Ruturaj Gaikwad",
+        "Age": "25",
+        "Role": "Right Hand Batsman",
+    },
+
+   {
+        "id": 469,
+        "name": " Ahmed Raza ",
+        "Age": "34",
+        "Role": "Left Handed Batsman",
+    },
+    {
+        "id": 3044,
+        "name": "parmanand",
+        "Age": "37",
+        "Role": "Right-handed bowler",
+    },
+    {
+        "id": 3046,
+        "name": "kiran",
+        "Age": "29",
+        "Role": "Right-handed",
+    },
+    {
+        "id": 3048,
+        "name": "krishna iyer",
+        "Age": "26",
+        "Role": "Right-handed",
+      },
+      {
+        "id": 3050,
+        "name": "Muyan ali",
+        "Age": "31",
+        "Role": "Right-handed bowler",
+     },
+     {
+        "id": 3047,
+        "name": "david miller",
+        "Age": "31",
+        "Role": "left-handed",
+    },
+  
+    {
+        "id": 3051,
+        "name": "Marcus Trescothick",
+        "Age": "50",
+        "Role": "right-handed batsman",
+    },
+    {
+        "id": 3070,
+        "name": "Taniya Bhatia",
+        "Age": "24",
+        "Role": "right-handed batsman",
+     },
+     {
+        "id": 3054,
+        "name": "Venkatraman Ramnarayan",
+        "Age": "74",
+        "Role": "Right hand batsman",
+      },
+      {
+        "id": 31003,
+        "name": "rahul malik",
+        "Age": "29",
+        "Role": "right-handed batsman",
+    },
+    {
+        "id": 31002,
+        "name": "Mayank iyer",
+        "Age": "35",
+        "Role": "right-handed bowler",
+    },
+    {
+        "id": 3051,
+        "name": "prakarsh",
+        "Age": "30",
+        "Role": "left-handed batsman",
+    },
+    {
+       "id": 31005,
+        "name": "pratyaksh",
+        "Age": "32",
+        "Role": "right-handed batsman",
+    },
+    {
+        "id": 31008,
+        "name": "sanmati",
+        "Age": "50",
+        "Role": "left-handed bowler",
+    },
+    {
+        "id": 3051,
+        "name": "Yami",
+        "Age": "30",
+        "Role": "left-handed batsman",
+    },
+    {
+        "id": 4321,
+        "name": "ranbir iyer",
+        "Age": "32",
+        "Role": "right-handed batsman",
+    },
+    {
+        "id": 4322,
+        "name": "garav venketes",
+        "Age": "30",
+        "Role": "right-handed batsman",
+    },
+    {
+        "id": 3052,
+        "name": "Nathan Astle",
+        "Age": "51",
+        "Role": "All-rounder",
+    },
+    {
+        "id": 4323,
+        "name": "krih venketase",
+        "Age": "50",
+        "Role": "right-handed bowler",
+    },
+    {
+        "id": 43321,
+        "name": "brendum singh",
+        "Age": "43",
+        "Role": "left-handed batsman",
+    },
+    {
+        "id": 4356,
+        "name": "jaddu singh",
+        "Age": "50",
+        "Role": "all-rounder",
+    },
+    {
+        "id": 34356,
+        "name": "Marcrum tenn",
+        "Age": "50",
+        "Role": "right-handed bowler",
+    },
+    {
+        "id": 4536,
+        "name": "krtik ken",
+        "Age": "50",
+        "Role": "right-handed batsman",
+    },
+    {
+        "id": 9870,
+        "name": "hritika chawhan",
+        "Age": "23",
+        "Role": "right-handed bowler",
+    },
+    {
+        "id": 3051,
+        "name": "renhudh chudari",
+        "Age": "20",
+        "Role": "left-handed batsman",
+    },
+    {
+        "id": 09898,
+        "name": "rectueb karker",
+        "Age": "50",
+        "Role": "right-handed batsman",
+    },
+    {
+        "id": 56423,
+        "name": "runner kumb",
+        "Age": "32",
+        "Role": "left-handed bowler",
+    },
+    {
+        "id": 84,
+        "name": "Stuart Binny",
+        "Age": "38",
+        "Role": "right-handed batsman",
+    },
+    {
+        "id": 66,
+        "name": "Sandeep Sharma",
+        "Age": "29",
+        "Role": "right arm bowler",
+     },
+     {
+        "id": 28,
+        "name": "Chetan Sakariya",
+        "Age": "24",
+        "Role": "left-handed batsman",
+    },
+    {
+        "id": 96308,
+        "Name":  "AMOL MAJUMDAR",
+        "Age": "47",
+        "Role": "right hand Batsman",
+    },
+    { 
+        "id": 1004,
+        "Name":  "Glenn McGrath",
+        "Age": "52",
+        "Role": "bowler"
+    },
+    {
+        "id": 96309,
+        "Name":  "Faf du Plessis",
+        "Age": "38",
+        "Role": "Batsman",
+    },
+    {
+        "id": 96310,
+        "Name":  "Gautam Gambhir",
+        "Age": "41",
+        "Role": "Left-handed Batsman",
+    },
+    {
+        "id": 96400,
+        "Name":  "Poonam Yadav",
+        "Age": "31",
+        "Role": "Leg spin Bowler",
+  },
+  {
+        "id": 9501,
+        "Name":  "Rangana Herath",
+        "Age": "44",
+        "Role": "Left hand Batsman",
+    },
+    {
+        "id": 950021,
+        "Name":  "Adam Gilchrist",
+        "Age": "50",
+        "Role": "Left hand Batsman and  wicket-keeper",
+   },
+ {
+        "id": 9580,
+        "Name":  "Shikha Pandey",
+        "Age": "33",
+        "Role": "Right hand Batsman",
+    },
+  {
+        "id": 951,
+        "Name":  "umesh pal",
+        "Age": "34",
+        "Role": "Batsman",
+    },
+    {
+        "id": 981,
+        "Name":  "rajesh malik",
+        "Age": "24",
+        "Role": "Left hand Batsman",
+    },
+  {
+        "id": 2221,
+        "Name":  "krishna Herath",
+        "Age": "41",
+        "Role": "right hand Batsman",
+    },
+    {
+        "id": 931,
+        "Name":  "arjun dubey",
+        "Age": "34",
+        "Role": "Left hand Bowler",
+    },
+  {
+        "id": 801,
+        "Name":  "rudransh panday",
+        "Age": "32",
+        "Role": " Batsman",
+    },
+    {
+        "id": 556,
+        "Name":  "ramnath tiwari",
+        "Age": "42",
+        "Role": "right hand Batsman",
+    },
+    {
+        "id": 91,
+        "Name":  "nitish sharma",
+        "Age": "34",
+        "Role": " Batsman",
+    },
+    {
+        "id": 951,
+        "Name":  "prem tiwari",
+        "Age": "24",
+        "Role": "Left hand Batsman",
+    },
+    {
+        "id": 952,
+        "Name":  "moti lal ",
+        "Age": "44",
+        "Role": "Left hand Bowler",
+      },
+      {
+        "id": 9555,
+        "Name":  "ajeet vashaney",
+        "Age": "44",
+        "Role": " Batsman",
+      },
+      {
+        "id": 9561,
+        "Name":  "amit khan",
+        "Age": "46",
+        "Role": "Left hand Batsman",
+    },
+    {
+        "id": 4201,
+        "Name":  "amir ahmed",
+        "Age": "34",
+        "Role": "all rounder",
+    },
+    {
+        "id": 9121,
+        "Name":  "arvind jaiswal",
+        "Age": "22",
+        "Role": "Batsman",
+    },
+    {
+        "id": 601,
+        "Name":  "shivam mishra",
+        "Age": "23",
+        "Role": "right hand Batsman",
+    },
+    {
+        "id": 921,
+        "Name":  "alok shukla",
+        "Age": "24",
+        "Role": "Left hand Batsman",
+    },
+    {
+        "id": 951,
+        "Name":  "Rangana ",
+        "Age": "44",
+        "Role": "Left hand Batsman",
+    },
+    {
+        "id": 901,
+        "Name":  "Rangana Herath",
+        "Age": "44",
+        "Role": "Left hand Batsman",
+    },
+    {
+        "id": 901,
+        "Name":  "Rangana Herath",
+        "Age": "44",
+        "Role": "Left hand Batsman",
+    },
+    {
+        "id": 871,
+        "Name":  "himanshu pal",
+        "Age": "56",
+        "Role": "Left hand bowler",
+    },
+    {
+        "id": 961,
+        "Name":  "atul sharma",
+        "Age": "35",
+        "Role": "Left hand Batsman",
+    },
+    {
+        "id": 9502,
+        "Name":"James Michael Anderson",
+        "Age": "40",
+        "Role":"All-Rounder",
+
+    },
+    {
+        "id": 9503,
+        "Name":"Amit Mishra",
+        "Age": "36",
+        "Role":"Bowler",
+    },
+    {
+        "id": 9504,
+        "Name":"Ashwin",
+        "Age": "37",
+        "Role":"Bowler",
+    },
+    {
+        "id": 9505,
+        "Name":"virat Kohli",
+        "Age": "36",
+        "Role":"All-Rounder",
+    },
+ {
+        "id": 9509,
+        "Name":"James Charles Laker",
+        "Age": "64",
+        "Role":"Right hand Batsman",
+    },
+ {
+        "id": 99,
+        "Name":"amod tiwari",
+        "Age": "24",
+        "Role":"left hand Batsman",
+    },
+ {
+        "id": 44,
+        "Name":"HANUMA Vihari",
+        "Age": "29",
+        "Role":"Batting All Rounder"
+
+    },
+
+ {
+        "id": 3,
+        "Name":"Riyan Parag",
+        "Age": "20",
+        "Role":"right-handed batsman"
+
+    }
+    {
+        "id": 669,
+        "Name":"James david",
+        "Age": "35",
+        "Role":"Batsman",
+},
+{
+        "id": 809,
+        "Name":"rohan pal",
+        "Age": "51",
+        "Role":"Right hand Batsman",
+    },
+  {
+        "id": 99,
+        "Name":"satyam",
+        "Age": "44",
+        "Role":"Right hand Batsman",
+  },
+{
+        "id": 209,
+        "Name":"Charles Laker",
+        "Age": "34",
+        "Role":"Batsman",
+
+    },
+ {
+        "id": 249,
+        "Name":"romit yadav",
+        "Age": "34",
+        "Role":" Batsman",
+
+    },
+    {
+        "id": 941,
+        "Name":"david Charles ",
+        "Age": "24",
+        "Role":"Right hand Batsman",
+
+    },
+ {
+        "id": 9509,
+        "Name":"aman yadav",
+        "Age": "33",
+        "Role":"Right hand bowler",
+    },
+
+{
+    "id"="721",
+    "name"="Ramesh joshi",
+    "Age"="39",
+    "Role"=" Batsman",
+  },
+{
+    "id"="811",
+    "name"="raju dev",
+    "Age"="29",
+    "Role"=" Batsman",
+  },
+{
+    "id"="882",
+    "name"="Richa devi",
+    "Age"="49",
+    "Role"="Right-handed Batsman",
+  },
+{
+    "id"="9541",
+    "name"="Rajesh yadav",
+    "Age"="39",
+    "Role"="Right-handed bowler",
+  },
+{
+    "id"="771",
+    "name"="amod pal",
+    "Age"="49",
+    "Role"="Right-handed Batsman",
+  },
+{
+    "id"="9111",
+    "name"="Rajit yadav",
+    "Age"="18",
+    "Role"=" Batsman",
+  },
+
+  {
+    "id": "9512",
+    "name": "Thangarasu Natarajan",
+    "Age": "29",
+    "Role": "Left-handed Batsman",
+  },
+  {
+        "id": 18189,
+        "Name": "Martin David Crowe",
+        "Age": "53",
+        "Role": "Right Handed Batsman",
+    },
+{
+        "id": 12212,
+        "Name": " David Crowe",
+        "Age": "50",
+        "Role": "Right Handed Batsman",
+    },
+    {
+        "id": 56565,
+        "Name": "BLUE Crowe",
+        "Age": "33",
+        "Role": "Right Handed Batsman",
+    },
+  {
+        "id": 445326,
+        "Name": "shravan sharma",
+        "Age": "45",
+        "Role": "left Handed Batsman",
+    },
+    {
+        "id": 9090,
+        "Name": "digital Crowe",
+        "Age": "23",
+        "Role": "Left Handed Batsman",
+    },
+    {
+        "id": 702099,
+        "Name": "Deamon Slayer",
+        "Age": "33",
+        "Role": "Right Handed Batsman",
+    },
+    {
+        "id": 2747,
+        "Name": "hello David Crowe",
+        "Age": "3",
+        "Role": "Right Handed Batsman",
+    },
+  {
+        "id": 66534,
+        "Name": "Martin tiwari",
+        "Age": "22",
+        "Role": "Right Handed Batsman",
+    },
+    {
+        "id": 55634,
+        "Name": "virat kohli",
+        "Age": "38",
+        "Role": "Right Handed Batsman",
+    },
+{
+        "id": 77653,
+        "Name": "shyam sunder dwivedi",
+        "Age": "45",
+        "Role": "Left Handed Batsman",
+    },
+{
+        "id": 07,
+        "Name": "Cricketer1",
+        "Age": "23",
+        "Role": "Left Handed Batsman",
+    },
+    {
+        "id": 38890,
+        "Name": "Cricketer2",
+        "Age": "24",
+        "Role": "Allrounder",
+    },
+    {
+        "id": 2207,
+        "Name": "Cricketer4",
+        "Age": "33",
+        "Role": "Wicket Keeper",
+    },
+    {
+        "id": 7707,
+        "Name": "Cricketer9",
+        "Age": "2",
+},
+{
+        "id": 5645,
+        "Name": "Hakuna Matata",
+        "Age": "53",
+        "Role": "Left Handed Batsman",
+    },
+ {
+        "id": 201,
+        "Name": "Manoj pandey",
+        "Age": "32",
+        "Role": "right-hand bowler",
+    },
+     {
+        "id": 123557,
+        "Name": "Simran Bahadur",
+        "Age": "22",
+        "Role": "Left Handed Batsman",
+    },
+{
+	      "id": 234,
+        "Name": "Sultan Ahmed",
+        "Age": "33",
+        "Role": "Left Handed Batsman",
+    },
+{
+        "id": 952,
+        "Name": "Health Hilton Streak",
+        "Age": "48",
+        "Role": "Right Handed Batsman",
+    },
+{
+        "id": 851,
+        "Name": "Stuart Vance Cartisle",
+        "Age": "50",
+        "Role": "Right Handed Batsman",
+    },
+{
+	"id": 222,
+	"Name": "Devang Gandhi",
+	"Age": "51",
+	"Role": "Right-hand-batsman and Right-arm-medium",
+},
+{
+	"id": 222000,
+	"Name": "Rajeshwari Gayakwad",
+	"Age": "31",
+	"Role": "Right-hand-batsman",
+}
+{
+	"id": 1817,
+	"Name": "Sarvesh Kumar",
+	"Age": "33",
+	"Role": "Bowling Allrounder and Right Handed Bat",
+},
+{
+	"id": 181700
+	"Name": "Ekta Bisht
+	"Age": "36,
+	"Role": "Left Handed Bowler"
+},
+{
+	"id": 181200
+	"Name": "Msd"
+	"Age": "30,
+},
+{
+	"id": 181700
+	"Name": "Ekta lust"
+	"Age": "26,
+	"Role": "Left Handed Batter"
+},
+{
+	"id": 1987
+	"Name": "Vishal"
+	"Age": "21",
+	"Role": "cricketer"
+},
+{
+	"id": 181700
+	"Name": "Raman Bisht
+	"Age": "46,
+	"Role": "Left Handed Btsman, Left arm fast spinner"
+},
+{
+	"id": 8767
+	"Name": "amit singh"
+	"Age": "22",
+	"Role": "batsman"
+},
+{
+	"id": 15965
+	"Name": "Akansha"
+	"Age": "23",
+	"Role": "all rounder"
+},
+{
+	"id": 85325
+	"Name": "Rahul bisht",
+	"Age": "25",
+	"Role": "Left Handed Bowler"
+},
+{
+	"id": 1817000,
+	"Name": "Jemimah Rodrigues",
+	"Age": "22",
+	"Role": "Right Handed Batsman"
+},
+
+    {
+        "id":"3052",
+        "name":"Ronald Draper",
+        "Age":"95",
+        "Role":"Right Handed Batsman"
+    },
+
+    {
+        "id":"30511",
+        "name":"Logan Van Week",
+        "Age":"32",
+        "Role":"Right Handed Bowler"
+    },
+{
+        "id":"69",
+        "name":"Simmer",
+        "Age":"32",
+        "Role":"left Handed Bowler"
+    },
+{
+        "id":"81234",
+        "name":"Andrew Maps",
+        "Age":"29",
+        "Role":"Wicketkeeper"
+    },
+{
+        "id":"966372",
+        "name":"Tony Munyonga",
+        "Age":"23",
+        "Role":"Wicketkeeper"
+    },
 ]
+

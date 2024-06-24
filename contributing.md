@@ -1,25 +1,8 @@
 [
   {
-    "id"="",
-    "name"="",
-    "Age"="",
-    "Role"="",
+    "id"="3052",
+    "name"="Shubhman Gill",
+    "Age"="23",
+    "Role"="Right Handed opening Batsman",
   },
-  <ul>
-  <li>id="Priyanshi-Rai"</li>
-  <li>name=PriyanshiRai</li>
-  <li>age=21</li>
-  <li>role : added about Virat Kohli in the readme</li>
-  </ul>
-
-
-
-
-
-
-
-
-
-
-
-]
+[
